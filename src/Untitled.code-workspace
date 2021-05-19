@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "linkedin-clone",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../../Downloads/images"
+		}
+	],
+	"settings": {}
+}
